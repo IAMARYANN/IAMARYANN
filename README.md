@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Aryan (IAMARYAN)  
 
-<!--
-**IAMARYANN/IAMARYANN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+🔹 Passionate about **building user-friendly web interfaces**  
+🔹 Experienced in **JavaScript, React.js, HTML, CSS, and Tailwind CSS**  
+🔹 Worked on **TDMS Dashboard**, **Chef Claude**, and a **Weather App**  
+🔹 **Former Software Engineering Intern at Airtel**  
+🔹 Learning **DSA** to strengthen problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack  
+💻 **Languages:** JavaScript, HTML, CSS  
+🎨 **Frontend:** React.js, Tailwind CSS  
+
+📫 **Let's Connect!**  
+🔗 [GitHub](https://github.com/IAMARYAN) | [LinkedIn](https://www.linkedin.com/in/aryan26/)
